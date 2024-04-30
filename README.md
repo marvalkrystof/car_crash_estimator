@@ -16,6 +16,9 @@ Kryštof Marval
 ## Description
 ![obrazek](https://github.com/marvalkrystof/car_crash_estimator/assets/84131825/cb20faeb-8cc9-4486-a8b7-5e27c6a29734)
 
+Type: Binary classification
+
+The app is able to estimate if your car crash costs will be over/under 1500$ based on the parameters of the crash.
 
 The work done on the dataset is well-documented in the .ipynb file, but in summary:
 1. Columns which were wrongly recoginzed as objects were categorized into their respective datatypes
